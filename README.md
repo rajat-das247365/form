@@ -1,16 +1,75 @@
-# React + Vite
+✨ Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 Live Site:
+https://rajat-das247365.github.io/form/
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔐 Strong password validation using Regex
 
-## React Compiler
+👁 Password visibility toggle
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚠ Real-time validation error messages
 
-## Expanding the ESLint configuration
+🔔 Success notifications using React Toastify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Fully styled with TailwindCSS
+
+⚡ Built using Vite for fast performance
+
+🌐 Deploy-ready for GitHub Pages
+
+🧠 Password Requirements
+
+Password must contain:
+
+✅ Minimum 4 characters
+
+✅ At least 1 uppercase letter
+
+✅ At least 1 lowercase letter
+
+✅ At least 1 number
+
+✅ At least 1 special character
+
+🛠 Tech Stack
+
+⚛ React 19
+
+⚡ Vite
+
+🎨 TailwindCSS 4
+
+🎭 React Icons
+
+🔔 React Toastify
+
+🚀 GitHub Pages
+
+Form/
+│
+├── src/
+│   ├── components/
+│   │   └── Form.jsx
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── public/
+├── vite.config.js
+├── package.json
+└── README.md
+
+🎯 What I Learned
+
+Controlled components in React
+
+Handling forms properly
+
+Regex validation for password security
+
+Using toast notifications
+
+Deploying Vite app to GitHub Pages
+
+Production-level Tailwind styling
